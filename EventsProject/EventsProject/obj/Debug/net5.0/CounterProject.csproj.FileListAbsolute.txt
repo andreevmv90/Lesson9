@@ -1,0 +1,16 @@
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\EventsProject\bin\Debug\net5.0\CounterProject.exe
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\EventsProject\bin\Debug\net5.0\CounterProject.deps.json
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\EventsProject\bin\Debug\net5.0\CounterProject.runtimeconfig.json
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\EventsProject\bin\Debug\net5.0\CounterProject.runtimeconfig.dev.json
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\EventsProject\bin\Debug\net5.0\CounterProject.dll
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\EventsProject\bin\Debug\net5.0\ref\CounterProject.dll
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\EventsProject\bin\Debug\net5.0\CounterProject.pdb
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\EventsProject\obj\Debug\net5.0\CounterProject.csproj.AssemblyReference.cache
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\EventsProject\obj\Debug\net5.0\CounterProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\EventsProject\obj\Debug\net5.0\CounterProject.AssemblyInfoInputs.cache
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\EventsProject\obj\Debug\net5.0\CounterProject.AssemblyInfo.cs
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\EventsProject\obj\Debug\net5.0\CounterProject.csproj.CoreCompileInputs.cache
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\EventsProject\obj\Debug\net5.0\CounterProject.dll
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\EventsProject\obj\Debug\net5.0\ref\CounterProject.dll
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\EventsProject\obj\Debug\net5.0\CounterProject.pdb
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\EventsProject\obj\Debug\net5.0\CounterProject.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\PingPong\bin\Debug\net5.0\PingPong.exe
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\PingPong\bin\Debug\net5.0\PingPong.deps.json
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\PingPong\bin\Debug\net5.0\PingPong.runtimeconfig.json
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\PingPong\bin\Debug\net5.0\PingPong.runtimeconfig.dev.json
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\PingPong\bin\Debug\net5.0\PingPong.dll
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\PingPong\bin\Debug\net5.0\ref\PingPong.dll
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\PingPong\bin\Debug\net5.0\PingPong.pdb
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\PingPong\obj\Debug\net5.0\PingPong.csproj.AssemblyReference.cache
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\PingPong\obj\Debug\net5.0\PingPong.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\PingPong\obj\Debug\net5.0\PingPong.AssemblyInfoInputs.cache
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\PingPong\obj\Debug\net5.0\PingPong.AssemblyInfo.cs
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\PingPong\obj\Debug\net5.0\PingPong.csproj.CoreCompileInputs.cache
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\PingPong\obj\Debug\net5.0\PingPong.dll
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\PingPong\obj\Debug\net5.0\ref\PingPong.dll
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\PingPong\obj\Debug\net5.0\PingPong.pdb
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\PingPong\obj\Debug\net5.0\PingPong.genruntimeconfig.cache

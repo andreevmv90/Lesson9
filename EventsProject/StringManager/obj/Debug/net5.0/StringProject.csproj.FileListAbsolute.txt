@@ -1,0 +1,16 @@
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\StringManager\bin\Debug\net5.0\StringProject.exe
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\StringManager\bin\Debug\net5.0\StringProject.deps.json
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\StringManager\bin\Debug\net5.0\StringProject.runtimeconfig.json
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\StringManager\bin\Debug\net5.0\StringProject.runtimeconfig.dev.json
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\StringManager\bin\Debug\net5.0\StringProject.dll
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\StringManager\bin\Debug\net5.0\ref\StringProject.dll
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\StringManager\bin\Debug\net5.0\StringProject.pdb
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\StringManager\obj\Debug\net5.0\StringProject.csproj.AssemblyReference.cache
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\StringManager\obj\Debug\net5.0\StringProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\StringManager\obj\Debug\net5.0\StringProject.AssemblyInfoInputs.cache
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\StringManager\obj\Debug\net5.0\StringProject.AssemblyInfo.cs
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\StringManager\obj\Debug\net5.0\StringProject.csproj.CoreCompileInputs.cache
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\StringManager\obj\Debug\net5.0\StringProject.dll
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\StringManager\obj\Debug\net5.0\ref\StringProject.dll
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\StringManager\obj\Debug\net5.0\StringProject.pdb
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 9\Lesson9\EventsProject\StringManager\obj\Debug\net5.0\StringProject.genruntimeconfig.cache
